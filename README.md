@@ -42,3 +42,8 @@ I've multiplied every letter by `3`.
 * It can only be used to **compare keywords with same prefixes**, such as saying 
 "iphone charger is definitely searched more than iphone 7", because they are both starting with **iphone**.
 * Also this API is not documented via Amazon, so I wouldn't trust this outcome.
+
+
+## 5. Docs
+
+Please see Java interfaces for detailed explanation of what every service does.
